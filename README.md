@@ -1,6 +1,7 @@
 # C DSA Template
 
-This template is created to quickly stand up a new project for C that
+This template is created to quickly stand up a new project for C that includes
+Unity Tests and CMake for builds.
 
 ## Usage
 
