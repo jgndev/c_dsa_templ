@@ -1,8 +1,8 @@
-#ifndef LINKED_LIST_CYCLE_LIBRARY_H
-#define LINKED_LIST_CYCLE_LIBRARY_H
+#ifndef SOLUTION_H
+#define SOLUTION_H
 
 #include <stddef.h>
 
 int function_name();
 
-#endif //LINKED_LIST_CYCLE_LIBRARY_H
+#endif // SOLUTION_H
